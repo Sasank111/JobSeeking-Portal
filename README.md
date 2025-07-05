@@ -1,12 +1,26 @@
 # JobSeeking-Portal
-A responsive and dynamic job portal built with React and Node, showcasing real-time job stats, category filtering and job posting capabilities.
+A responsive and dynamic job portal built with React and Node, connects **Job Seekers** with **Employers**.Having dashboards for each role with important features like posting jobs, applying with resumes, and managing applications — all with a clean and responsive UI.
 
 ##  Tech Stack
 
-- React (Frontend library)
-- Vite (Build tool for fast HMR and lightweight dev environment)
-- React Icons (for dynamic icon rendering)
-- Tailwind CSS / CSS Modules (for styling system)
+###  Backend
+
+* [Node.js]
+* [Express.js]
+* [Axios for API requests]
+  
+
+###  Frontend
+* [HTML]
+* [CSS]
+* [React]
+### Database
+* [MongoDB]
+### Other Tools
+* [JWT / Express Sessions ]
+* [Cloudinary / Local Storage]
+* [CORS, dotenv, bcrypt]
+
 
 ## Post a Job
 Dropdown-based category selection for posting jobs.
@@ -22,15 +36,19 @@ AI / Game Dev / Animation
 Data Entry Operator
 
 Finance & Accounts
+###  Clone and Run
+
+```bash
 # Clone the repository
 git clone https://github.com/Sasank111/JobSeeking-Portal.git
+
+# Navigate to project directory
 cd backend
 cd frontend
 
-Install dependencies
+# Install dependencies
 npm install
 
-Start development server
-npm run dev
-
+# Start the development server
+npm start
 
