@@ -6,9 +6,9 @@ A responsive and dynamic job portal built with React and Node, showcasing real-t
 - React (Frontend library)
 - Vite (Build tool for fast HMR and lightweight dev environment)
 - React Icons (for dynamic icon rendering)
-- Tailwind CSS / CSS Modules (assumed styling system)
-- ESLint(for code linting and quality)
-  ## Post a Job
+- Tailwind CSS / CSS Modules (for styling system)
+
+## Post a Job
 Dropdown-based category selection for posting jobs.
 
 Supported Categories:
@@ -27,10 +27,10 @@ git clone https://github.com/Sasank111/JobSeeking-Portal.git
 cd backend
 cd frontend
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Start development server
+Start development server
 npm run dev
 
 
