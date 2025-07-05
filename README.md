@@ -1,5 +1,5 @@
 # JobSeeking-Portal
-A responsive and dynamic job portal built with React and Node, showcasing real-time job stats, category filtering, company job listings, and job posting capabilities.
+A responsive and dynamic job portal built with React and Node, showcasing real-time job stats, category filtering and job posting capabilities.
 
 ##  Tech Stack
 
